@@ -1,2 +1,3 @@
 # hello-world
-JustLearning
+
+Keep Python notes and projects here.
