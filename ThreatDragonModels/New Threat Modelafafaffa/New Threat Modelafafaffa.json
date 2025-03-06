@@ -1,0 +1,27 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "New Threat Modelafafaffa",
+    "owner": "afafafaf",
+    "description": "aafaffa",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagramafaafaffa",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "afaafaf"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "afafaf",
+    "threatTop": 0
+  }
+}
